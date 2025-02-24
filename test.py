@@ -16,3 +16,6 @@ def square(a):
     return a*a
 def mod(a,b):
     return a%b
+
+def exp(a,b):
+    return a**b
