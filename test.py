@@ -14,3 +14,5 @@ def div(a,b):
 
 def square(a):
     return a*a
+def mod(a,b):
+    return a%b
